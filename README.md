@@ -288,7 +288,8 @@ If no server appears, leave the phone connected by USB and restart Metro with:
 npx expo start --dev-client --clear
 ```
 Then scan the QR code use your iphone.
-
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## 17. Test the homepage on the iPhone
 
 1. Save all files in VS Code.
