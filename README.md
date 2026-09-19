@@ -287,7 +287,7 @@ If no server appears, leave the phone connected by USB and restart Metro with:
 ```bash
 npx expo start --dev-client --clear
 ```
-
+Then scan the QR code use your iphone.
 
 ## 17. Test the homepage on the iPhone
 
