@@ -1,6 +1,6 @@
 # LandingCheck — Local iPhone Setup and First UI
 
-This guide helps each student set up LandingCheck on their own Mac, create an iOS development build, run it on their own iPhone, and complete the first vibe-coding activity.
+This guide helps student set up LandingCheck on their own Mac, create an iOS development build, run it on their own iPhone, and complete the first vibe-coding activity.
 
 LandingCheck currently contains the original Expo starter screen. In this lesson, we will build only a simple homepage. We will **not** add camera access, MediaPipe, pose detection, or landing-analysis logic yet.
 
