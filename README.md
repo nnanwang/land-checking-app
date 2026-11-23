@@ -56,7 +56,7 @@ Do not create another Expo project inside this folder. The class repository is a
 For reference, the instructor originally created the project with:
 
 ```bash
-npx create-expo-app@latest landchecking57
+npx create-expo-app@latest land-checking-app
 ```
 
 The **SDK 57** option was selected. Students using the class repository do not need to run this command again.
@@ -72,7 +72,7 @@ pwd
 The path should end in:
 
 ```text
-landchecking57
+land-checking-app
 ```
 
 Check that the folder contains at least:
