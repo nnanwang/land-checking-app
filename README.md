@@ -41,7 +41,7 @@ You can clone it in Terminal:
 
 ```bash
 git clone <repository-url>
-cd landchecking57
+cd land-checking-app
 code .
 ```
 
